@@ -1,0 +1,6 @@
+{
+  "name": "Market Intelligence System",
+  "description": "High-precision institutional-grade market intelligence platform featuring real-time index monitoring, advanced charting, sector heatmaps, screener, and portfolio management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
